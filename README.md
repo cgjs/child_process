@@ -4,7 +4,7 @@ child_process core module for cgjs
 
 #### How to contribute
 
-The [@cgjs/timers](https://github.com/cgjs/cgjs-timers) module is the most basic example of a structure suitable to develop and test [cgjs](https://github.com/cgjs/cgjs) core.
+The [@cgjs/timers](https://github.com/cgjs/timers) module is the most basic example of a structure suitable to develop and test [cgjs](https://github.com/cgjs/cgjs) core.
 
 #### APIs
 
